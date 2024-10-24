@@ -30,3 +30,6 @@ print (2*2+2==2*(2+2))
 "4th program"
 a=123.456
 print (int(float(123.456)*10)%10)
+
+name="123.456"
+print(name[4])
